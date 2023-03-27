@@ -1,6 +1,6 @@
-# VeniAqui App
+# Counter App
 
-Primer Proyecto EsparSoft
+Primer Proyecto en flutter
 
 ## Inicio
 
